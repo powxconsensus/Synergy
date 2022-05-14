@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Ethereum/Coinverse" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Ethereum/CrowdFunding" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Ethereum/Tokenization" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Ethereum/eVoting" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Ethereum/epi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Ethereum/nft" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Solana/new" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tobese/Patent" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tobese/kickstart" vcs="Git" />
+  </component>
+</project>
